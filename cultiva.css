@@ -1,0 +1,119 @@
+
+body{
+	margin: 0px;
+	background-color: #e9ecef;
+	color: rgb();
+	font-size: 25px;
+	font-family:  'Mountains of Christmas', cursive;
+}
+
+h1{
+	
+    font-family: 'Mountains of Christmas', cursive;
+    font-size: 150px;
+    color: red;
+    margin: 10px;
+    text-align: center;
+}
+h1:hover {
+	color: pink;
+}
+
+a{
+
+font-family: 'Chela One', cursive;
+font-size: 40px;
+text-align: left;
+color: purple;
+}
+a:hover{
+	color:pink;
+}
+
+p{
+font-family: 'Chela One', cursive;
+font-size: 15px;
+color: black;
+height: 10px;
+text-align: left;
+text-orientation: 
+}
+p:hover {
+	color: pink;
+}
+
+
+h2{
+font-family: 'Chela One', cursive;
+font-size: 20px;
+color: orange;
+text-align: left;
+border-image-width: 100px;
+
+}
+h2:hover{
+	color: pink;
+}
+
+h3{
+	font-family: monospace;
+	font-size: 22px;
+	color: #174817;
+}
+
+#banner {
+	background-image: url('imagenes/banda completa.JPG');
+	background-size: cover;
+	background-position: top;
+	height: 600px;
+	width: 100%;
+	font-size: 200px;
+    font-family: 'Mountains of Christmas', cursive;
+    font-size: 200px;
+    color: red;
+	box-shadow: 3px 3px 5px rgb(19,19,19);
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+
+}
+
+h4{
+	height: 30px;
+	font-family:  'Chela One', cursive;
+	color: #174817;
+}
+
+
+.info{
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.history{
+	padding: 10px;
+	margin: 10px;
+
+}
+
+.logo{
+	background-image: url(imagenes/Skadelviento.JPG);
+	background-size: cover;
+	background-position: center;
+	padding: 10px;
+	margin: 10px;
+}
+
+#banda{
+	background-image: url("imagenes/cultiva-peke.JPG");
+	background-size: cover;
+	background-position: center;
+	height: 700px;
+	width: 100%;
+}
+
+
+
+
